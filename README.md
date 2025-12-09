@@ -1,6 +1,6 @@
 # Neo-OS
 Special Neo operating system
-# Neo_OS — A Modern 64-bit Operating System from Scratch
+# Neo OS — A Modern 64-bit Operating System from Scratch
 
 
 A clean, educational, and fully bootable **64-bit operating system kernel** written in C and x86-64 assembly — built step by step with clarity, correctness, and future extensibility as the top priorities.
