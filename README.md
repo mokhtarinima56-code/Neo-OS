@@ -39,10 +39,3 @@ Neo_OS is designed for anyone who wants to truly understand how modern operating
 
 Neo_OS will eventually become a modern, UNIX-like teaching kernel — think xv6, but 64-bit, clean, and actively maintained.
 
-## Quick Start (Under 30 seconds)
-
-```bash
-git clone https://github.com/yourusername/Neo_OS.git
-cd Neo_OS
-make          # builds kernel + bootable os.iso
-make run      # launch in QEMU (graphical window)
