@@ -37,5 +37,5 @@ Neo_OS is designed for anyone who wants to truly understand how modern operating
 | Framebuffer Graphics (VBE/VESA)    | Next        | Move beyond text mode                                                   |
 | Rust Safety-Critical Modules        | Next        | Optional safe drivers and core components in Rust                       |
 
-Neo_OS will eventually become a modern, UNIX-like teaching kernel — think xv6, but 64-bit, clean, and actively maintained.
+Neo-OS will eventually become a modern, UNIX-like teaching kernel — think xv6, but 64-bit, clean, and actively maintained.
 
